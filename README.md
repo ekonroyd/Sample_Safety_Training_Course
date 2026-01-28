@@ -4,12 +4,15 @@ Click on the _Preview.gif_ link in the file repository, or scroll down to view a
 ![An animated 'gif' of a learner navigating a course about roof safety in their browser](Preview.gif)
 
 ## Why This Project is Important
-I had to synthesize information from a variety of disparate sources. From this synthesis, I had to tailor the learning content to the learning outcomes of the organization's target audience (employed and contract workers) and adhere to best practices of pedagogical and professional development. I also had to measure learning outcomes based on established quantitative methods.
-
-This project also shows my skill with visual media and graphic design that supports or supplements the communication of concepts through writing.
+* I synthesized information from a variety of disparate sources
+* From this synthesis, I tailored content to the learning outcomes of the organization and target audience (employed and contract workers) while adhering to best practices of pedagogical and professional development
+* I also measured learning outcomes based on established quantitative methods
+* This project also shows my skill with visual media and graphic design that supports or supplements the communication of concepts through writing
 
 ## Methodology
-The topic is safety for flat roof design and operations. Course content is based on public legislative and building code knowledge, and organizational work experience in building science and asset management.
+The topic is safety for flat roof design and operations. 
+
+Course content is based on public legislative and building code knowledge, and organizational work experience in building science and asset management.
 
 ## What I Learned
 ### Synthesis per Learning Outcomes  
@@ -27,8 +30,8 @@ Authorship of this project required skillful weaving of ___all___ of the followi
 
 ### Learning System Management
 * Collection and incorporation of feedback from
-  * Organization: alignment with strategic goals, test runs, etc.
-  * Learner: experience with the course, assessment and other metrics, etc.
+  * Organization: alignment with strategic goals, style guidelines, test runs, etc.
+  * Learner: experience with the course interface and content, assessment and other metrics, etc.
 * Ongoing improvement of learning structure
 
 ## Skills Used in This Project
