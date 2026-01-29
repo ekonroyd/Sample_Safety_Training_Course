@@ -1,5 +1,5 @@
 # Sample Training Course
-Click on the _Preview.gif_ link in the file repository, or scroll down to view a screen-recording of a learner navigating a course I authored, using their web browser. 
+Click on the _Preview.gif_ link in the file repository, or scroll down to view a course I authored, shown through screen-recording of a learner in their web browser. 
 
 ![An animated 'gif' of a learner navigating a course about roof safety in their browser](Preview.gif)
 
